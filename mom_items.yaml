@@ -1,0 +1,114 @@
+- name: Goldie Prawn Fish and Chips Food Truck
+  id: 5
+  images:
+  - Goldie Prawn Logo.jpg
+  - Goldie Prawn Logo Color Variations.jpg
+  - Branding for Goldie Prawn Fish and Chips.jpg
+  categories:
+  - branding
+  description: Proposed Branding
+
+
+- name: Cherry On Top Ice Cream
+  id: 7
+  images:
+  - Cherry On Top Logo-01.jpg
+  - Cherry On Top Packaging.jpg
+  - Branding for Cherry On Top Ice Cream .jpg
+  categories:
+  - branding
+  description: Proposed Branding
+
+
+- name: Willow Tree Greenhouse
+  id: 10
+  images:
+  - Willow Tree Logo.jpg
+  - Willow Tree Logo and Color variations.jpg
+  - Branding for Willow Tree Greenhouse.jpg
+  categories:
+  - branding
+  description: Proposed Branding
+
+
+- name: The Treasured Trinket
+  id: 4
+  images:
+  - Treasured Trinket Logo.jpg
+  - Treasured Trinket Logo Color Variations.jpg
+  - Branding for The Treasured Trinket.jpg
+  categories:
+  - branding
+  description: Proposed Branding
+
+
+- name: Clark Memorandum Magazine
+  id: 11
+  images:
+  - Hand Lettering for Clark Memorandum Magazine.jpg
+  categories:
+  - publication
+  description: Hand Lettering for Article
+
+
+- name: Birth Announcement
+  id: 8
+  images:
+  - Hand Lettered Birth Announcement .jpeg
+  categories:
+  - personal
+  description: Hand Lettering
+
+
+- name: "Most Favorite"
+  id: 3
+  images:
+  - Greeting Card, "Most Favorite".jpg
+  categories:
+  - personal
+  description: Greeting Card
+
+
+- name: "Digital Collage Poster"
+  id: 9
+  images:
+  - Digital Collage Poster, "Author and Artist".jpg
+  categories:
+  - personal
+  description: 
+
+
+- name: Katies' Award Show
+  id: 1
+  images:
+  - Hand Lettering for Katies' Award Show.jpg
+  categories:
+  - publication
+  description: Hand Lettering for Poster, Program and Invitations
+
+
+- name: "Hand Lettered Poster"
+  id: 2
+  images:
+  - Hand Lettered Poster, "Most Beautiful".jpg
+  categories:
+  - personal
+  description:
+
+
+- name: The Joint Chiropractic Clinic
+  id: 6
+  images:
+  - Promotional Flyers for the Joint.jpg
+  categories:
+  - publication
+  description: Promotional Fliers
+
+
+- name: Private Club Travel Management
+  id: 12
+  images:
+  - Promotional Brochure for Private Club Travel Management.jpeg
+  categories:
+  - publication
+  description: Promotional Brochure
