@@ -7,6 +7,7 @@ python yaml_to_json.py
 npm run build
 sleep 20
 echo "dist built"
+bash git.sh
 
 cp -R dist/* /Users/shayne/Documents/mom_website/shayneeliason.github.io
 echo "copied files to shayneeliason.github.io"
