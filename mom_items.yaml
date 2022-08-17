@@ -2,8 +2,8 @@
   id: 5
   images:
   - Goldie Prawn Logo.jpg
-  - Goldie Prawn Logo Color Variations.jpg
-  - Branding for Goldie Prawn Fish and Chips.jpg
+  - goldie prawn branding page-01.jpg
+  - goldie prawn truck mock up.jpg
   categories:
   - branding
   description: Proposed Branding
@@ -12,9 +12,9 @@
 - name: Cherry On Top Ice Cream
   id: 7
   images:
-  - Cherry On Top Logo-01.jpg
-  - Cherry On Top Packaging.jpg
+  - cherry on top mock up.jpg
   - Branding for Cherry On Top Ice Cream .jpg
+  - Cherry On Top Packaging.jpg
   categories:
   - branding
   description: Proposed Branding
@@ -23,20 +23,19 @@
 - name: Willow Tree Greenhouse
   id: 10
   images:
-  - Willow Tree Logo.jpg
-  - Willow Tree Logo and Color variations.jpg
+  - willowtree mock up.jpg
   - Branding for Willow Tree Greenhouse.jpg
+  - Willow Tree Logo and Color variations.jpg
   categories:
   - branding
   description: Proposed Branding
 
 
-- name: The Treasured Trinket
+- name: Coast + Flow Surf and Skate Shop
   id: 4
   images:
-  - Treasured Trinket Logo.jpg
-  - Treasured Trinket Logo Color Variations.jpg
-  - Branding for The Treasured Trinket.jpg
+  - coast and flow mock up.jpg
+  - Coast and Flow Branding page-01.jpg
   categories:
   - branding
   description: Proposed Branding
